@@ -5,7 +5,7 @@
 
 ---
 
-### Module 1 – Foundations of Deep Learning (Part A)
+### Module 1 – Foundations of Deep Learning 
 ![Module 1 A](Screenshots/Module1(A).png)
 
 ![Module 1 B](Screenshots/Module1(B).png)
